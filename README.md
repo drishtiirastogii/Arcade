@@ -1,6 +1,7 @@
 # Arcade
 It is a website that has various games for leisure time and also to sharpen your memory!!
-Tech stack-
+
+.Tech stack-
 1. html
 2. css
 3. bootstrap
